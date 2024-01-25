@@ -12,12 +12,10 @@ Após a criação dos **Branchs** e enviarmos os arquivos modificados para o **G
 Dentro desse projeto ultilizamos as seguintes ferramentas:
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 10px">
       <img src="https://img.shields.io/badge/first-badge-blue" alt="First Badge">
     </td>
-    <td align="center">
-    </td>
-    <td align="center">
+    <td align="center" style="padding: 10px">
       <img src="https://img.shields.io/badge/second-badge-green" alt="Second Badge">
     </td>
   </tr>
