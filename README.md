@@ -16,6 +16,8 @@ Dentro desse projeto ultilizamos as seguintes ferramentas:
       <img src="https://img.shields.io/badge/first-badge-blue" alt="First Badge">
     </td>
     <td align="center">
+    </td>
+    <td align="center">
       <img src="https://img.shields.io/badge/second-badge-green" alt="Second Badge">
     </td>
   </tr>
