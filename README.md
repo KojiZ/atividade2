@@ -10,6 +10,7 @@ Após a criação dos **Branchs** e enviarmos os arquivos modificados para o **G
 
 # Ferramentas utilizadas
 Dentro desse projeto ultilizamos as seguintes ferramentas:
+<center>
 <table>
   <tr>
     <td align="center" style="padding: 10px">
@@ -18,8 +19,15 @@ Dentro desse projeto ultilizamos as seguintes ferramentas:
     <td align="center" style="padding: 10px">
       <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Second Badge">
     </td>
+    <td align="center" style="padding: 10px">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Second Badge">
+    </td>
+    <td align="center" style="padding: 10px">
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Second Badge">
+    </td>
   </tr>
 </table>
+</center>
 
 # Autores do projeto
 Leandro Antonio Telles dos Santos  
