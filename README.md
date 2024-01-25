@@ -13,10 +13,10 @@ Dentro desse projeto ultilizamos as seguintes ferramentas:
 <table>
   <tr>
     <td align="center" style="padding: 10px">
-      <img src="https://img.shields.io/badge/first-badge-blue" alt="First Badge">
+      <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="First Badge">
     </td>
     <td align="center" style="padding: 10px">
-      <img src="https://img.shields.io/badge/second-badge-green" alt="Second Badge">
+      <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Second Badge">
     </td>
   </tr>
 </table>
